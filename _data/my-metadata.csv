@@ -1,4 +1,4 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 coll001,crf01.jpg,,,CRF with rider,Honda,2022-11-19,CRF motorcycle with rider,motorcycyle,,,,,,,image/jpeg,eng,Copyright,https://powersports.honda.com/motorcycle/dual-sport/crf450rl
 coll002,crf02.png,,,CRF solo,Honda,2022-11-19,CRF motorcycle solo shot,motorcycyle,,,,,,,image/png,eng,Copyright,https://powersports.honda.com/motorcycle/dual-sport/crf450rl
-coll003,psa.pdf,,,Data agreement form,PSA,2022-11-19,Form used when requesting datasets,form,,,,,,,pdf,eng,Copyright,psa.gov.ph
+coll003,crfspecs.pdf,,,Data agreement form,PSA,2022-11-19,Form used when requesting datasets,form,,,,,,,pdf,eng,Copyright,psa.gov.ph
